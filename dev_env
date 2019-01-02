@@ -1,0 +1,6 @@
+env dev
+
+db1=db1.dev.local.ru
+username=user_dev
+password=dev
+
